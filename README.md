@@ -6,6 +6,10 @@ A lightweight, secure, and standalone self-hosted dashboard designed for precise
 It features client-side cryptography for security over plain HTTP networks, built-in task archiving, and seamless runtime language switching.
 支持纯 HTTP 局域网环境下的前端哈希加密鉴权、已办结事务归档管理以及全站动态中英文一键切换。
 
+* Default password: 123456. To change the password, modify line 33 of the code; SHA-256 encryption is used.
+* 默认密码：123456，需要更改密码请更改第33行代码，SHA-256加密方式。
+
+
 ---
 
 ## Features / 功能特性
